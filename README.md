@@ -127,7 +127,7 @@ The script should repeatedly display the menu until the user chooses to exit. Us
 
 ## OUTPUT
 
-![Uploading Screenshot 2026-05-21 094140.png…]()
+<img width="398" height="477" alt="Screenshot 2026-05-21 094140" src="https://github.com/user-attachments/assets/78460479-7fb3-4cc5-877b-c8c4bcf8ce5d" />
 
 
 # RESULT:
